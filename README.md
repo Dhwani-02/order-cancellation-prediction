@@ -15,7 +15,7 @@ Understanding why orders get cancelled is crucial for improving customer satisfa
 
 - Python
 - Pandas, NumPy
-- Matplotlib, Seaborn (for visualization)
+- Matplotlib, Seaborn, plotly (for visualization)
 - Scikit-learn
 - Pickle (for model deployment)
 
