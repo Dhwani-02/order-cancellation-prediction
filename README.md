@@ -46,3 +46,9 @@ Sample code for prediction:
 ```python
 loaded_model.predict(sample_input)
 loaded_model.predict_proba(sample_input)
+
+Contact
+For any inquiries, reach out via GitHub Issues or email. dhwanizala25@gmail.com
+
+Author: [Dhwani Zala]
+Date: April 2025
